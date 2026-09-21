@@ -1,0 +1,1 @@
+import{x as r,B as a,C as l}from"./components-DZRBXHIl.js";var x=l('<div class="prose-width mx-auto my-8 text-base md:text-lg leading-relaxed text-[var(--color-text)]">');function o(e){return(()=>{var t=r(x);return a(t,()=>e.children),t})()}export{o as T};
